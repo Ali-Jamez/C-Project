@@ -1,4 +1,4 @@
-"Simple Car Animation"  
+# Simple Car Animation
 
 How program Works:  
                            Car Controls:
